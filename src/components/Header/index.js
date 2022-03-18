@@ -2,7 +2,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useEffect, useRef, useState } from "react";
 import styled from "styled-components";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/Pokeball-PNG.png";
 
 const Headers = styled.header`
   display: flex;
