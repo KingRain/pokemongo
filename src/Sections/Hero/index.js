@@ -6,7 +6,7 @@ import pinkBlob from "../../assets/blobPink.png";
 import purpleBlob from "../../assets/blob purple.png";
 import whiteBlob from "../../assets/blob white.png";
 import arrow from "../../assets/Arrow Right.svg";
-import Mobile from "../../assets/earth.png";
+import Mobile from "../../assets/Pokeball-PNG.png";
 
 const move = keyframes`
 0% { transform: translateY(-5px)  }
@@ -210,18 +210,19 @@ const HeroSection = () => {
             <Circle />
             <span>We Build Web</span>
           </Topic>
-          <Title>Welcome to Worldwide!</Title>
+          <Title>Welcome to PokemonGo Discord!</Title>
           <SubText>
-            Here we are one community connecting everybody from all around the world.
+          The official Pokemon go discord server subreddit and wider community. Come and discuss all things Pokemon Go!
+
           </SubText>
           <CTA>
             <Link>
-            <a href="https://discord.com/invite/worldwide" target="_blank" rel="noreferrer" >Join Discord &nbsp;</a>
+            <a href="https://discord.com/invite/URnVHUdh9H" target="_blank" rel="noreferrer" >Join Discord &nbsp;</a>
             </Link>
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
           <Online>
-            <img src="https://discord.com/api/guilds/512369682636865556/widget.png" alt="cta" width="10" height="10" />
+            <img src="https://discord.com/api/guilds/864766766932426772/widget.png" alt="cta" width="10" height="10" />
           </Online>
         </Lb>
 

@@ -100,7 +100,7 @@ const About = () => {
           <AboutText>
 
             <Text>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id leo rutrum, dignissim nisi sit amet, mollis lectus. Mauris et feugiat enim. Nunc aliquet est mauris, id tristique sapien molestie non. Nullam varius risus ut felis varius rhoncus ut ut leo. Integer blandit luctus viverra.
+            We now have a Discord server for #PokemonGo fans! We hope you’ll join and discuss the game with fellow trainers!Having a reliable source to know where all of the Pokemon Go raids and battles are happening nearby is important to progress in the game, that’s where being a part of a Discord server helps. Invitation links to each server are attached!Are you looking for the best sources to find coordinates for Pokemon sniping? You have come to the right place as here we have an ultimate list of best Pokemon GO channels and servers to help you snipe and bot rare Pokemon with 100 IV and high CP. Our ultimate list will help you catch them all.
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />

@@ -101,7 +101,7 @@ const About = () => {
           <AboutText>
 
             <Text>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id leo rutrum, dignissim nisi sit amet, mollis lectus. Mauris et feugiat enim. Nunc aliquet est mauris, id tristique sapien molestie non. Nullam varius risus ut felis varius rhoncus ut ut leo. Integer blandit luctus viverra.
+            Whether you are sniping on your phone using sniper tools or using a botting program to snipe Pokemon, this ultimate Discord channels list will help you with all of your sniping needs. We have been getting a lot of requests lately asking about a list of best discord servers and discord Pokemon GO coordinates where you can find all the active channels of rare and 100 IV Pokemon spawn coordinates for sniping purposes. Apart from the cords (longitude and latitude), in every discord channel, you are going to find all the other relevant details about each Pokemon, including its name, remaining time, level, IV score, and CP score.
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />

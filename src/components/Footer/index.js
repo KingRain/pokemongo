@@ -47,7 +47,7 @@ const Footer = () => {
   return (
     <FOOTER>
       <LeftText>
-        © 2021 Built and Design by{" "}
+        © 2022 Built and Design by{" "}
         <a href="https://www.github.com/KingRain">
           @HttpError
         </a>

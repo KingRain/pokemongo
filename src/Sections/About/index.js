@@ -135,7 +135,7 @@ const About = () => {
             </Human>
 
             <Text>
-            We are Worldwide. Here we are creating an amazing community that caters to all people from all corners of the globe. We have been active since November 2018, creating which is around 3 years ago. We are trying our best to limit the toxicity rate within our community. We are all striving and seeking a positive environment for our members. 
+            A newly established Pokemon Go Discord server (12 January 2022), based in the city of Sydney. Focused on making it easy to raid with others through using commands for friends codes and raiding. Come check it out and be a part of a newly growing community! Global Remote Raids for all Pokémon GO trainers level 30 and up! PvP, news, chat, infographics, games and challenges.Check out the Pokemon GO Hub community on Discord – hang out with 40370 other members and enjoy free voice and text chat.Friendly Pokemon Go Community Discord Server with Giveaways, Coordinates, Shiny Hunts, Raids and much more !! 
             </Text>
             <div>
               <Circle style={{ backgroundColor: "var(--purple)" }} />
