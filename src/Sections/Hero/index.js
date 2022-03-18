@@ -208,7 +208,7 @@ const HeroSection = () => {
         <Lb id="leftBlock">
           <Topic>
             <Circle />
-            <span>We Build Web</span>
+            <span>Pokemon Go Community</span>
           </Topic>
           <Title>Welcome to Pokemon Go Discord!</Title>
           <SubText>
