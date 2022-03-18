@@ -222,7 +222,7 @@ const HeroSection = () => {
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
           <Online>
-            <img src="https://discord.com/api/guilds/864766766932426772/widget.png" alt="cta" width="10" height="10" />
+            <img src="https://discord.com/api/guilds/555932873798975568/widget.png" alt="cta" width="10" height="10" />
           </Online>
         </Lb>
 
