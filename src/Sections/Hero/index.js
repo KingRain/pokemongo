@@ -210,7 +210,7 @@ const HeroSection = () => {
             <Circle />
             <span>We Build Web</span>
           </Topic>
-          <Title>Welcome to PokemonGo Discord!</Title>
+          <Title>Welcome to Pokemon Go Discord!</Title>
           <SubText>
           The official Pokemon go discord server subreddit and wider community. Come and discuss all things Pokemon Go!
 

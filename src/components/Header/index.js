@@ -234,8 +234,8 @@ const Header = () => {
   return (
     <Headers ref={ref}>
       <Logo>
-        <img src={logo} alt="WorlwideDiscord" />
-        <h3>PokemonGo</h3>
+        <img src={logo} alt="Pokemon Go" />
+        <h3>Pokemon Go</h3>
       </Logo>
       <Nav>
         <a href="#home" onClick={(e) => scrollUp("home", e)}>
