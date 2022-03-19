@@ -116,7 +116,6 @@ bottom: 100%;
 const About = () => {
   return (
     <AboutSection id="about">
-      <a href="http://www.pokemongo.in/" >.</a>
       <Waves src={wave} alt="" />
       <Hand>
         <img src={hand} alt="" />

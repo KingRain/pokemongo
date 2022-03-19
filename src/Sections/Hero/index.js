@@ -95,7 +95,7 @@ const Online = styled.div`
   display: flex;
   position: relative;
   top: -37px;
-  right: -180px;
+  right: -190px;
   padding: 0.5rem 0;
   flex-direction: column;
   align-items: flex-start;
@@ -169,7 +169,7 @@ const CTA = styled.button`
   transition: transform 0.2s;
 
   img {
-    width: 1.5rem;
+    width: 2.75rem;
   }
   @media only screen and (max-width: 48em) {
     padding: 0.2rem 1rem;
